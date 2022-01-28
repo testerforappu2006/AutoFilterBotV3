@@ -30,8 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Loki
     
-➥ Creator : [MRToxicDragon](
-https://t.me/MRToxicDragon)
+➥ Creator : @MRToxicDragon
 
 ➥ Language : Python3
 
